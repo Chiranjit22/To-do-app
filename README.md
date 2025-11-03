@@ -1,2 +1,2 @@
-# To-do-app
-My first desktop app
+# To-do List
+Written in python (with Tkinter GUI)
